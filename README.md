@@ -1,11 +1,11 @@
 # AITalkbotproject
 
-#개요
+# 개요
 설계 목표<br>
 이미지 예측을 통해 랜드마크 정보 제공<br>
 랜드마크 주변의 추천 장소 서비스<br>
 챗봇 기능으로 한류 여행의 호기심 자극<br>
-
+# ScreenShot
 <div>
  <img width="200" src="https://user-images.githubusercontent.com/13067686/98098666-fc9bd000-1ed1-11eb-87b8-91f55a97aef8.png">
 <img width="200" src="https://user-images.githubusercontent.com/13067686/98098762-1b01cb80-1ed2-11eb-93da-3cb594500f45.png">
