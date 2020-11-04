@@ -5,6 +5,13 @@
 이미지 예측을 통해 랜드마크 정보 제공<br>
 랜드마크 주변의 추천 장소 서비스<br>
 챗봇 기능으로 한류 여행의 호기심 자극<br>
+# 사용 기술
+-Image Detection<br>
+-Keras CNN Model <br>
+-Saltlux ChatBot <br>
+-Flask<br>
+# 사용 언어
+Python<br>
 # ScreenShot
 <div>
  <img width="200" src="https://user-images.githubusercontent.com/13067686/98098666-fc9bd000-1ed1-11eb-87b8-91f55a97aef8.png">
